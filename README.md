@@ -1,1 +1,1 @@
-# Hand-Tracking-and-Gesture-Recognition-for-Automated-VFX
+ECE549 Final Project
